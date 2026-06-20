@@ -1,0 +1,154 @@
+.body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(192, 196, 244);
+}
+.main-div{
+    width: 100%;
+    height: 100%;
+    float: left;
+    padding-top: 0px;
+}
+.head{
+    padding-top: 18px;
+    width:100%;
+    height: 20%;
+    float: left;
+    background-color: chartreuse;
+}
+.content{
+    width: 100%;
+    height:70%;
+    float: left;
+    background:scroll;
+    background-color: blanchedalmond;
+}
+.footer{
+    width: 100%;
+    height: 10%;
+    float: left;
+    background-color: rgb(40, 90, 90);
+    color: white;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.other{
+    width: 50%;
+    float: left;
+}
+.image{
+    width: 19%;
+    height: 16%;
+    margin-left: 28px;
+    float: left;
+    border-color: rgb(7, 14, 14);
+    border-radius:20% ;
+    background-color: aqua;
+    border-width: 12px;
+}
+#para{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10%;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: larger;
+    color: cadetblue;
+}
+.para{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: math;
+    padding-top: 9px;
+    padding-left: 80px;
+}
+.g1{
+    width: 25%;
+    height: 400px;
+    float: left;
+    background-color: aqua;
+    padding-top: 50px;
+}
+.g2{
+    width: 25%;
+    height: 400px;
+    padding-top: 50px;
+    float: left;
+    background-color:violet ;
+}
+.g3{
+    width: 25%;
+    height: 400px;
+    padding-top: 50px;
+    float: left;
+    background-color: goldenrod;
+}
+.g4{
+    width: 25%;
+    height: 400px;
+    padding-top: 50px;
+    float: left;
+    background-color: coral;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(48 178 250 / 91%);
+    border-radius: 53%;
+    color: #f6f3f38a;
+    margin-left: 50px;
+}
+.btn:hover{
+    background-color: rgb(136, 242, 126);
+    color: crimson;
+}
+.lbl{
+    color: black;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 2cqw;
+    margin-left: 77px;
+    margin-top: 20pxS;
+}
+.i1{
+    border-radius: 30%;
+    margin-left: 76px;
+    margin-bottom: 40px;
+}
+
+.i2{
+    border-radius: 30%;
+    margin-left: 76px;
+    margin-bottom: 40px;
+}
+.i3{
+    border-radius: 30%;
+    margin-left: 76px;
+    margin-bottom: 40px;
+}
+.i4{
+    border-radius: 30%;
+    margin-left: 76px;
+    margin-bottom: 40px;
+}
+.link{
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+}
+.l{
+    color: white;
+    font-weight: 500;
+    font-family: serif;
+    text-decoration: none;
+}
+.l:hover{
+    color: blue;
+}

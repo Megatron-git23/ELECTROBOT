@@ -1,0 +1,157 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    padding-top: 18px;
+    width:100%;
+    height: 20%;
+    float: left;
+    background-color: chartreuse;
+}
+.root{
+    background-color: white;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.other{
+    width: 50%;
+    float: left;
+}
+.image{
+    width: 19%;
+    height: 16%;
+    margin-left: 28px;
+    float: left;
+    border-color: rgb(7, 14, 14);
+    border-radius:20% ;
+    background-color: aqua;
+    border-width: 12px;
+}
+#para{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10%;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: larger;
+    color: cadetblue;
+}
+.para{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: math;
+    padding-top: 9px;
+    padding-left: 19px;
+}
+.apple{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(227, 123, 123);
+}
+.samsung{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(16, 240, 199);
+}
+.hua{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(88, 196, 38);
+}
+.xia{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(28, 130, 231);
+}
+.gar{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(180, 230, 44);
+}
+.zep{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(31, 222, 239);
+}
+.fit{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(244, 200, 87);
+}
+.boat{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(197, 87, 228);
+}
+.noise{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(65, 160, 232);
+}
+.gulugulu{
+    width: 100%;
+    float: left;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    background-color:  rgb(93, 242, 90);
+}
+.img{
+    border-radius: 35%;
+    width: 150px;
+    padding: 40px;
+}
+.label{
+    font-size: 50px;
+    padding-left: 420px;
+    float: left;
+    margin-top: -160px;
+}
+.btn{
+    width: 212px;
+    height: 42px;
+    color: black;
+    background-color: forestgreen;
+    margin-left: 860px;
+    float: left;
+    margin-top: -144px;
+    border-radius: 12%;
+
+}
+.btn:hover{
+    background-color: cyan;
+    color: deeppink;
+}
+

@@ -1,0 +1,80 @@
+.main{
+    width: 100vw;
+    height: 100dvw;
+    padding: 0%;
+    margin: 0%;
+    float: left;
+    background-color: rgb(197, 124, 239) ;
+    padding-top: 50px;
+}
+.major{
+    width: 38%;
+    height: 60%;
+    margin-left: 20%;
+    margin-top: 20px;
+    background-color: rgb(228 120 158);
+    border-radius: 57px;
+    padding-top: 42px;
+    padding-left: 294px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.body{
+    padding: 0%;
+    margin: 0%;
+}
+.lab{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(199, 246, 11);
+    padding-left: 496px;
+    text-decoration: dotted;
+}
+.sub{
+    padding-left: 8px;
+    width: 200px;
+    height: 50px;
+    background-color: violet;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: fantasy;
+    margin-left:-12px;
+}
+.sub:hover{
+    background-color: greenyellow;
+}
+.raw{
+    background-color: azure;
+    border-radius: 20px;
+}
+.rawr{
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+.raw:hover{
+    background-color: aqua;
+}
+rawr:hover{
+    background-color: rgb(241, 138, 157);
+}
+.image{
+    width: 45%;
+    height: 64%;
+    margin-left: -257px;
+    float: left;
+    border-color: rgb(7, 14, 14);
+    border-radius: 20%;
+    background-color: aqua;
+    border-width: 12px;
+}
+#para{
+   float: left;
+    margin-left: -268px;
+    margin-top: 36%;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: 37px;
+    color: cadetblue;
+}
