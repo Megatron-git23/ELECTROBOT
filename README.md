@@ -89,7 +89,77 @@ JavaScript    Dynamic Functionality and
 
 📁 Project Structure
 
-providing soon...
+Electrobot/
+└── main/
+    └── base/
+        ├── ui.html                 # 1. Starting / landing page
+        ├── ui.css                   #    Landing page styles
+        ├── login.html              # 2. Login page
+        ├── login.css                #    Login page styles
+        ├── home.html               # 3. Homepage (post-login dashboard)
+        ├── home.css                 #    Homepage styles
+        │
+        ├── smartwatches/           # 4. Category pages, linked from home.html
+        │   ├── smartwatches.html   # Smartwatches category listing page
+        │   ├── smartwatches.css    # Smartwatches category styles
+        │   ├── amazfit.html
+        │   ├── apple4.html
+        │   ├── boat3.html
+        │   ├── fitbit.html
+        │   ├── garmin.html
+        │   ├── google22.html
+        │   ├── huawei5.html
+        │   ├── noise.html
+        │   ├── samsung8.html
+        │   ├── xiaomi3.html
+        │   └── style2.css          # Individual product page styles
+        │
+        ├── smartphones/
+        │   ├── smartphones.html    # Smartphones category listing page
+        │   ├── smartphones.css     # Smartphones category styles
+        │   ├── apple.html
+        │   ├── google.html
+        │   ├── huawei.html
+        │   ├── motorola.html
+        │   ├── nothing.html
+        │   ├── oneplus.html
+        │   ├── oppo.html
+        │   ├── samsung.html
+        │   ├── vivo.html
+        │   ├── xiaomi.html
+        │   └── style.css           # Individual product page styles
+        │
+        ├── laptops/
+        │   ├── laptops.html        # Laptops category listing page
+        │   ├── laptops.css         # Laptops category styles
+        │   ├── acer.html
+        │   ├── apple1.html
+        │   ├── asus.html
+        │   ├── dell.html
+        │   ├── hp.html
+        │   ├── lenovo.html
+        │   ├── microsoft.html
+        │   ├── msi.html
+        │   ├── razer.html
+        │   ├── samsung1.html
+        │   └── style1.css          # Individual product page styles
+        │
+        └── headphones/
+            ├── headphones.html     # Headphones category listing page
+            ├── headphones.css      # Headphones category styles
+            ├── anker.html
+            ├── apple2.html
+            ├── beats.html
+            ├── boat.html
+            ├── bose.html
+            ├── bowers.html
+            ├── jbl.html
+            ├── samsung4.html
+            ├── sennheiser.html
+            ├── sony1.html
+            └── style3.css          # Individual product page styles
+
+
 
 🚀 Getting Started
 
