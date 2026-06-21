@@ -263,39 +263,6 @@ in any modern web browser.
 
 ---
 
-# 📸 Screenshots
-
-## Landing Page
-
-```text
-Insert Screenshot Here
-```
-
----
-
-## Login Page
-
-```text
-Insert Screenshot Here
-```
-
----
-
-## Home Page
-
-```text
-Insert Screenshot Here
-```
-
----
-
-## Product Category Page
-
-```text
-Insert Screenshot Here
-```
-
----
 
 # 🌟 Future Enhancements
 
